@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-dotenv
+requests
+groq
+transformers
+torch
+diffusers
+Pillow
